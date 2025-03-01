@@ -1,5 +1,13 @@
 # portfolio
 venha me conhecer melhor, atraves de minha redes socias .
-e dar uma olhada em meus projetos pessoas !
+e dar uma olhada em meus projetos pessoas ! 🚀
 
-[<img src="./Gravando 2025-03-01 145500.mp4" alt="gif da tela do portifolio">]
+[<img src="./Vídeo sem título ‐ Feito com o Clipchamp.gif" alt="gif da tela do portifolio">](linkdoportifolio)
+
+## tecnologias utilizadas
+
+- HTML
+- CSS
+- VISUAL STUDIO CODE
+- GIT
+- GITHUB
